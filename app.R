@@ -1,0 +1,1 @@
+shiny::shinyApp(ui = htmlTemplate("www/globe.html"), server = function(input, output) {})
