@@ -2,7 +2,7 @@ library(dplyr)
 library(tidygeocoder)
 library(magrittr)
 
-data = read.csv("shinyconf-2023-registrants.csv", stringsAsFactors = F)
+data = read.csv("shinyconf-2023-991-registrants.csv", stringsAsFactors = F)
 
 data %>%
   select(Country.1, City) %>%
