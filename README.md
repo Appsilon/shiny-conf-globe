@@ -16,4 +16,4 @@ Data visualization of ShinyConf 2023 participants
 
 ## Globe visualization
 
-![Appsilon Shiny Conf 2023](./shinyconf-2023-globe.gif)
+./shinyconf-2023-globe.mp4
