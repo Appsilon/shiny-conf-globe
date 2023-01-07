@@ -16,4 +16,5 @@ Data visualization of ShinyConf 2023 participants
 
 ## Globe visualization
 
-./shinyconf-2023-globe.mp4
+https://user-images.githubusercontent.com/4669074/211159705-6a34d740-e264-460c-b67d-bf36897132be.mp4
+
